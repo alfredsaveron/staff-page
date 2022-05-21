@@ -27,7 +27,7 @@ h2:before {
     left: 0;
     width: 175px;
     height: 6px;
-    background: #7289da;
+    background: #5865F2;
     border-radius: 15px;
 }
 
@@ -61,7 +61,7 @@ h2:after {
     display: inline-block;
     width: 50px;
     height: 40px;
-    background-color: #7289da !important;
+    background-color: #5865F2 !important;
     margin-left: 10px;
     transition: .3s;
 }
