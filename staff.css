@@ -1,5 +1,5 @@
 body {
-    color: #7289da;
+    color: #5865F2;
     font-size: 15px;
     line-height: 1.7;
 }
@@ -49,7 +49,7 @@ h2:after {
 }
 .staff-meta {
     font-size: 15px;
-    color: #7289da;
+    color: #5865F2;
     margin-top: 12px;
 }
 
@@ -87,9 +87,9 @@ h2:after {
 }
  
 ::-webkit-scrollbar-thumb {
-  background: #7289da; 
+  background: #5865F2; 
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #242424; 
+  background: #5865F2; 
 }
